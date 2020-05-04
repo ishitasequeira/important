@@ -69,6 +69,7 @@ Prerequisites:
  * [C2 Wiki](http://wiki.c2.com/?TestDrivenDevelopment)
  * [Refactoring and Design Skills for Test Driven Development by Roy Osherove (Video)](https://youtu.be/9ZSbuwCmwuc)
  * [Guide: Writing Testable Code - Miško Hevery](http://misko.hevery.com/code-reviewers-guide/)
+ * [TDD - Jason Gorman](http://codemanship.co.uk/tdd_jasongorman_codemanship.pdf)
  * [TDD and Software Design - JB Rainsberger and Sandro Mancus (Video)](https://youtu.be/ty3p5VDcoOI)
  * [Agile Technical Practices Distilled](https://leanpub.com/agiletechnicalpracticesdistilled)
  * [Mocks Aren't Stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
@@ -174,6 +175,8 @@ Prerequisites:
  * [The Anatomy Of Domain-Driven Design - Booklet](https://leanpub.com/theanatomyofdomain-drivendesign)
  * [Hands-on Domain-driven Design - by example - Michael Plöd](https://leanpub.com/ddd-by-example)
  * [Implementing DDD with the Spring Ecosystem by Michael Plöd (Video)](https://youtu.be/a9dF7fnArq0)
+ * [Practical DDD: Bounded Contexts + Events = Microservices by Indu Alagarsamy (Video)](https://youtu.be/Ab5-ebHja3o)
+ * [Microservices love Domain-Driven Design, why and how? Michael Plöd (Video)](https://youtu.be/ZJiFlgimHss)
  * [The Language of Actors: Vaughn Vernon (Video)](https://youtu.be/KtRLIzG5c54)
  * [Reactive DDD: Modeling Uncertainty - Vaughn Vernon (Video)](https://youtu.be/MKLRXCiU5IE)
  * [A Decade of DDD, CQRS, Event Sourcing - Greg Young (Video)](https://youtu.be/LDW0QWie21s)
@@ -232,17 +235,30 @@ Prerequisites:
 ## Deploying your Code
 
  * [The Twelve-factor App](https://12factor.net/)
+ * [Getting Started on Heroku with Java](https://devcenter.heroku.com/articles/getting-started-with-java)
+ * [Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
 
 ## Continuous Delivery
 
  * [Continuous Delivery: The Dirty Details (Video)](https://youtu.be/JR-ccCTmMKY)
+ * [Patterns for Continuous Integration with Docker on Travis CI](https://medium.com/mobileforgood/patterns-for-continuous-integration-with-docker-on-travis-ci-71857fff14c5)
 
 ## Agile Methodologies
 
- * [To Pair or Not To Pair (Video)](https://youtu.be/u_eZ-ae2FY8)
+ * [Learning Agile - Andrew Stellman & Jennifer Greene](http://shop.oreilly.com/product/0636920025849.do)
  * Extreme Programming
+ * Scrum
+ * Kanban
+
+ * [To Pair or Not To Pair (Video)](https://youtu.be/u_eZ-ae2FY8)
 
 ## Enterprise Integration
+
+ * [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+ * [Apache Camel](https://camel.apache.org/docs/)
+     - [Getting Started with Apache Camel - Claus Ibsen (Video)](https://youtu.be/_xJipu2E0Pc)
+ * [Spring Integration](https://spring.io/projects/spring-integration)
+     - [Spring Tips: A Gentle Introduction to Spring Integration (Video)](https://youtu.be/MTKlk8_9aAw)
 
 ## Patterns of Software Architecture
 
@@ -251,7 +267,17 @@ Prerequisites:
 
 ## Learning Go
 
+ * [A Tour of Go](https://tour.golang.org/welcome/1)
+ * [Go by Example](https://gobyexample.com/)
+ * [Get Programming With Go](https://www.manning.com/books/get-programming-with-go)
+ * [Effective Go](https://golang.org/doc/effective_go.html)
+ * [Effective Go Supplement](https://github.com/golovers/effective-go)
+ * [The Go Programming Language](https://www.informit.com/store/go-programming-language-9780134190440)
+
 ## Smalltalk
+
+ * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
+ * [How learning Smalltalk can make you a better developer](https://techbeacon.com/app-dev-testing/how-learning-smalltalk-can-make-you-better-developer)
 
 ## Essential Reading
 
@@ -261,3 +287,5 @@ Prerequisites:
 ## Other Recommendations
 
  * [Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka](https://www.informit.com/store/reactive-messaging-patterns-with-the-actor-model-applications-9780133846836)
+ * [The Object Primer: Third Edition - Scott Ambler](https://www.cambridge.org/core/books/object-primer/BD0D59A20FFCF1DB1FD2F0E813DC5533)
+ * [Your Code as a Crime Scene - Adam Thornhill](https://pragprog.com/book/atcrime/code-as-a-crime-scene)
